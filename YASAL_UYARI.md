@@ -2,7 +2,7 @@
 
 **Son Güncelleme:** 2026-10-08  
 **Sürüm:** 1.0.0  
-**Kurum:** T.C. Ticaret Bakanlığı
+**Kurum:** Makale yazari tarafından demo olarak hazırlanmıştır.
 
 ---
 
@@ -42,11 +42,8 @@ Bu veriyi kullanan herkes:
 
 yükümlüdür.
 
-## 5. İletişim
 
-- pdaas@ticaret.gov.tr
-- pdaas-hukuk@ticaret.gov.tr
 
 ---
 
-**T.C. Ticaret Bakanlığı**
+*Makale yazari tarafından demo olarak hazırlanmıştır.**
