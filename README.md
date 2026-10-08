@@ -1,6 +1,6 @@
 # Parametrik Veri Servisi (PDAAS)
 
-Türkiye Cumhuriyeti kamu kurumlarının **ürün, hizmet ve genel parametrelerini** tek çatı altında sunan açık veri ekosistemi.
+Parametrik Veri Servisi **ürün, hizmet ve genel parametrelerini** tek çatı altında sunan açık veri ekosistemi.
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 ![License](https://img.shields.io/badge/license-Kamu%20Malı-green)
