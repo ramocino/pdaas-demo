@@ -1,0 +1,33 @@
+# Geçici dosyalar
+yapi.txt
+*.log
+*.tmp
+*.bak
+
+# Sistem
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Ortam
+.env
+.env.local
+*.key
+*.pem
+
+# Node
+node_modules/
+package-lock.json
+
+# Nextcloud
+*.sync-conflict-*
+
+# Python
+__pycache__/
+*.pyc
+venv/
